@@ -13,7 +13,7 @@ This script automates the setup process for a wallet using Nimble Technology's w
 2. Navigate to the repository directory:
 
     ```bash
-    cd <repository_name>
+    cd nimble_wallet_gen
     ```
 
 3. Make the setup script executable:
