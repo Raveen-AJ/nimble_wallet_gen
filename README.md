@@ -7,7 +7,7 @@ This script automates the setup process for a wallet using Nimble Technology's w
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone [<repository_url>](https://github.com/Raveen-AJ/nimble_wallet_gen.git)
+    git clone https://github.com/Raveen-AJ/nimble_wallet_gen.git
     ```
 
 2. Navigate to the repository directory:
