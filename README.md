@@ -19,13 +19,13 @@ This script automates the setup process for a wallet using Nimble Technology's w
 3. Make the setup script executable:
 
     ```bash
-    chmod +x setup_wallet.sh
+    chmod +x wallet_gen.sh
     ```
 
 4. Execute the script with your desired wallet name as an argument:
 
     ```bash
-    ./setup_wallet.sh <WALLET_NAME>
+    ./wallet_gen.sh <WALLET_NAME>
     ```
 
     Replace `<WALLET_NAME>` with the name you want to assign to your wallet.
